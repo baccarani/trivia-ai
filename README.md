@@ -1,4 +1,9 @@
-# React Jam
+# App Images
+
+![Screen Shot 2023-11-21 at 4 42 54 PM](https://github.com/baccarani/trivia-ai-1.0/assets/29648095/2a7e35cd-e8a3-4028-a5c0-14bb65982138)
+![Screen Shot 2023-11-21 at 4 41 28 PM](https://github.com/baccarani/trivia-ai-1.0/assets/29648095/875f582f-1883-4e1e-9989-a9dc66413dab)
+![Screen Shot 2023-11-21 at 4 41 44 PM](https://github.com/baccarani/trivia-ai-1.0/assets/29648095/6c22bb4a-48ef-4e85-8011-67401c1d9ee2)
+
 
 ## React App Setup
 
